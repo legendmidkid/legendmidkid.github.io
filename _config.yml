@@ -1,0 +1,12 @@
+title: LittleNostalgia
+email: johnswag198fs@gmail.com
+description: >-
+  A collection of classic abandonware games for preservation and fun.
+baseurl: ""
+url: "https://legendmidkid.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
