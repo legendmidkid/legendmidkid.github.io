@@ -9,7 +9,7 @@ Here's a big list of classic abandonware games on LittleNostalgia! Click any tit
 
 ## Adventure Games
 
-- [Space Quest II](games/space-quest-2.md)
+- [Space Quest II](games/space-quest-2.html)
 - [The Secret of Monkey Island](games/monkey-island.md)
 - [King's Quest VI](games/kings-quest-6.md)
 - [Day of the Tentacle](games/day-of-the-tentacle.md)
